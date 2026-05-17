@@ -1,5 +1,14 @@
 [
   {
+    "slug": "2025-05-17",
+    "title": "live2d",
+    "tags": [],
+    "date": "2026-05-17T14:51",
+    "summary": "",
+    "hidden": false,
+    "category": "代码实现"
+  },
+  {
     "slug": "curve-arrow",
     "title": "箭头生成小工具",
     "tags": [
